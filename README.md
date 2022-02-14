@@ -1,5 +1,5 @@
 ## Ola! Eu sou o Endrick.
-<div align="center">
+<div align="">
   <a href="https://github.com/rick-eth0">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rick-eth0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rick-eth0&layout=compact&langs_count=7&theme=dracula"/>
